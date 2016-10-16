@@ -35,5 +35,3 @@ sudo echo '<?xml version="1.0" encoding="UTF-8"?>
 </settings>' > /usr/share/maven/conf/settings.xml
 
 echo "*********** INSTALLATION FINISHED ***********."
-
-mvn jetty:run
